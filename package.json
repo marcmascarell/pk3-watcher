@@ -1,0 +1,19 @@
+{
+  "name": "pk3watcher",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "hound": "^1.0.5",
+    "lodash": "^4.17.15",
+    "node-run-cmd": "^1.0.1",
+    "node-zip": "^1.1.1",
+    "rimraf": "^2.7.1",
+    "scp2": "^0.5.0",
+    "ssh-exec": "^2.0.0",
+    "zip-folder": "^1.0.0"
+  },
+  "devDependencies": {}
+}
