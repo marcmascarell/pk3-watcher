@@ -14,6 +14,7 @@ This package was made to ease modding when .pk3 was involved. Be aware that this
     
 # How to use
 
+1. Install [Node JS](https://nodejs.org/es/download/) version >= 8
 1. `npm install`
 1. Add your desired uncompressed `.pk3` to root folder (remember that its just a ZIP with `.pk3` extension)
 1. Fill your `settings.js`
